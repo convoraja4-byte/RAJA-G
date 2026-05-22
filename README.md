@@ -100,7 +100,7 @@
 Paste this into `.github/workflows/npn-publish.yml` for 24/7 execution.
 
 ```yaml
-name: Run Bot - RDX-BOT
+name: RDX MEGA BOT 🤖
 
 on:
   push:
